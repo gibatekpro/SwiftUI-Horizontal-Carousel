@@ -19,6 +19,7 @@
 		9A0056DF28F192C600CD7665 /* BannerSkeletonTheme.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A0056D928F192C600CD7665 /* BannerSkeletonTheme.swift */; };
 		9A0056E028F192C600CD7665 /* BannerCellType.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A0056DA28F192C600CD7665 /* BannerCellType.swift */; };
 		9A0056E228F195F300CD7665 /* BannersCarouselSample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A0056E128F195F300CD7665 /* BannersCarouselSample.swift */; };
+		EA4DBFA12BBB798D001EAECF /* Test Class.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA4DBFA02BBB798D001EAECF /* Test Class.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -58,6 +59,7 @@
 		9A0056D928F192C600CD7665 /* BannerSkeletonTheme.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BannerSkeletonTheme.swift; sourceTree = "<group>"; };
 		9A0056DA28F192C600CD7665 /* BannerCellType.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BannerCellType.swift; sourceTree = "<group>"; };
 		9A0056E128F195F300CD7665 /* BannersCarouselSample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BannersCarouselSample.swift; sourceTree = "<group>"; };
+		EA4DBFA02BBB798D001EAECF /* Test Class.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Test Class.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -100,6 +102,7 @@
 				9A0056BF28F1922700CD7665 /* Assets.xcassets */,
 				9A0056C128F1922700CD7665 /* Preview Content */,
 				9A0056E128F195F300CD7665 /* BannersCarouselSample.swift */,
+				EA4DBFA02BBB798D001EAECF /* Test Class.swift */,
 			);
 			path = "SwiftUI Horizontal Carousel Example";
 			sourceTree = "<group>";
@@ -241,6 +244,7 @@
 				9A0056DB28F192C600CD7665 /* BannersCarousel.swift in Sources */,
 				9A0056DF28F192C600CD7665 /* BannerSkeletonTheme.swift in Sources */,
 				9A0056BC28F1922500CD7665 /* SwiftUI_Horizontal_Carousel_ExampleApp.swift in Sources */,
+				EA4DBFA12BBB798D001EAECF /* Test Class.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
